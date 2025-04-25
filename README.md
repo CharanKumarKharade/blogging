@@ -1,4 +1,4 @@
-# Bloggerz_arena#### Sample dynamic website to test my Azure tools 
+### Sample dynamic website to test my Azure tools <br>
 ---------------------------------------------Bloggers_Arena------------------------------------------------------------
 A full-stack blogging web application currently under development, designed with a modern tech stack and DevOps practice.
 Developed front end using ReactJS for dynamic and responsive UI and Backend using Django framework for secure APIs.
