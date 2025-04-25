@@ -15,19 +15,19 @@ python3 -m venv venv_name
 source venv_name/bin/activate
 
 #### Installing Django after activating venv
---Install Django -- <br>
+<i>--Install Django --</i> <br>
 pip3 install django
 
--- show all dependencies downloaded by pip --<br>
+<i>-- show all dependencies downloaded by pip </i>--<br>
 pip freeze
 
---To create a django Project --<br>
+<i>--To create a django Project --</i><br>
 django_admin startproject project_name
 
---check version of django--<br>
+<i>--check version of django--</i><br>
 django --version
 
---create a app--<br>
+<i>--create a app--</i><br>
 python manage.py startapp app_name
 
--- register the urls in the urls.py of the main directory--<br>
+<i>-- register the urls in the urls.py of the main directory--</i><br>
