@@ -31,3 +31,9 @@ django --version
 python manage.py startapp app_name
 
 <i>-- register the urls in the urls.py of the main directory--</i><br>
+
+##Docker the application using docker commands
+Pre-requistie 
+    * <i>Download the Docker Desktop</i><
+    * <i>OR download Docker Hub for older version</i><br>
+
