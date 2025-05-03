@@ -37,3 +37,6 @@ Pre-requistie
     * <i>Download the Docker Desktop</i><
     * <i>OR download Docker Hub for older version</i><br>
 
+##creating a dockerfile
+<i>Create a docker file with all its requirements needed for the application</i><br>
+
