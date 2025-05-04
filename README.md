@@ -39,4 +39,6 @@ Pre-requistie
 
 ##creating a dockerfile
 <i>Create a docker file with all its requirements needed for the application</i><br>
+<i>Run command to create a docker image:<br>
+docker build -t tag_name path_name</i>
 
