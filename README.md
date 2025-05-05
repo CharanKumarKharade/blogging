@@ -42,3 +42,5 @@ Pre-requistie
 <i>Run command to create a docker image:<br>
 docker build -t tag_name path_name</i>
 
+##push the docker image to Azure Container registry
+
