@@ -43,4 +43,9 @@ Pre-requistie
 docker build -t tag_name path_name</i>
 
 ##push the docker image to Azure Container registry
-
+<i>Login to the Azure ACR</i>
+az acr login --name my_acr
+<i>Tag the image</i>
+docker tag image_name my_acr.azure.io/{image_name:version}#
+<i>Push image to acr</i>
+docker push image_name:version
